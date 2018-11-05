@@ -12,7 +12,7 @@ Firmware: *Under Development.*  It is possible to use firmware from similar open
 
 Arduino IDE Compatibility: *Under Development.*  We are currently testing with Version 1.6.3 of the [Official Arduino IDE](http://arduino.cc). Installation instructions and files will be provided soon. The first releases will be "hacker friendly" but not necessarily ready for the general public.
 
-Wiki: [EB1 ??一号](http://www.samuraicircuits.com/MediaWiki/index.php?title=EB1) 
+
 
 ----
 
