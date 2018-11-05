@@ -1,8 +1,8 @@
 ChibiCar is a simple and cheep microprocessor and electronics learning tool.
 
-Photo: [prototype] ()
+Photo: [prototype] (https://github.com/tiisaidipjp/ChibiCar/blob/master/chibicar.jpg)
 
-Example Videos: YouTube
+Example Videos: [YouTube] (https://www.youtube.com/watch?v=R5ejYLfS0Wk)
 
 Schematic and PCB files: Under Development. 
 
